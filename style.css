@@ -1,0 +1,37 @@
+/* Toàn bộ nền */
+body {
+    background-color: #f4f6f9;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: #333333;
+}
+
+/* Sidebar */
+.css-1d391kg {
+    background-color: #1f2937 !important;
+    color: white !important;
+}
+
+/* Tiêu đề */
+h1, h2, h3 {
+    color: #2563eb;
+    font-weight: 600;
+}
+
+/* Nút bấm */
+button {
+    background-color: #2563eb !important;
+    color: white !important;
+    border-radius: 8px !important;
+    padding: 0.6em 1em !important;
+    border: none !important;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #1d4ed8 !important;
+}
+
+/* Container nội dung */
+.block-container {
+    padding: 2rem 4rem;
+}
